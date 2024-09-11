@@ -1,4 +1,4 @@
-README
+
 Task Management Console Application
 This is a Python console application for managing tasks. The application supports two types of tasks: bugs and features. You can add, list, and remove tasks, and each task has specific attributes such as severity for bugs and priority for features.
 
