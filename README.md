@@ -1,3 +1,4 @@
+README
 
 Task Management Console Application
 This is a Python console application for managing tasks. The application supports two types of tasks: bugs and features. You can add, list, and remove tasks, and each task has specific attributes such as severity for bugs and priority for features.
@@ -19,12 +20,10 @@ To install dependencies, run:
 How to Run
 Navigate to the project directory:
 bash
-Copy code
+```
 cd task_manager
-Run the application:
-css
-Copy code
 python main.py
+```
 Usage
 After starting the program, you can:
 Add a task (bug/feature)
